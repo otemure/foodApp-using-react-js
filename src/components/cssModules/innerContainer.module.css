@@ -1,0 +1,8 @@
+.innerContainer {
+  width: 100%;
+  gap: 20px;
+  display: flex;
+  flex: 1;
+  padding: 20px;
+  margin: 10px;
+}
